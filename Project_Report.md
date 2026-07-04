@@ -1,49 +1,49 @@
-# Snake Game
+# Snake Game Project Report
+
+## Project Title
+Snake Game in C Language
 
 ## Developed By
 Anjali Kumari
 
-## Intern Details
-**Intern ID:** CITS3235
+## Intern ID
+CITS3235
 
 ## Duration
 4 Weeks
 
-## Language
-C Programming
+## Objective
+The objective of this project is to develop a simple console-based Snake Game using C programming language and to understand game logic, file handling, and keyboard input.
 
 ## Project Description
-This is a simple console-based Snake Game developed using C Programming. The game allows the player to control a snake, collect food, increase the score, and avoid collisions with walls. It demonstrates basic game development concepts using C language.
+This is a console-based Snake Game developed using C language. The player controls the snake to collect food and increase the score while avoiding collisions with the walls or the snake's own body.
 
 ## Features
-- Snake Movement (W, A, S, D Keys)
-- Random Food Generation
-- Score Counter
-- High Score Saving (File Handling)
-- Game Over Detection
-- Keyboard Input
-- Console-Based User Interface
+- Snake movement
+- Food generation
+- Score display
+- High score storage using file handling
+- Game Over detection
+- Keyboard controls
 
 ## Technologies Used
 - C Programming
-- VS Code
+- Visual Studio Code
 - GitHub
 
-## How to Run
-1. Open the project in VS Code.
-2. Compile the source code.
-3. Run the executable file.
-4. Use the keyboard controls to play the game.
+## Concepts Used
+- Arrays
+- Structures
+- Functions
+- Loops
+- Conditional Statements
+- File Handling
 
-## Controls
-- W - Move Up
-- A - Move Left
-- S - Move Down
-- D - Move Right
-- X - Exit Game
-
-## Output Screenshots
-Screenshots are available in the **screenshots** folder.
+## Project Files
+- Source Code: src/main.c
+- Screenshots: screenshots/
+- README.md
+- Project_Report.md
 
 ## Conclusion
-This project demonstrates the use of arrays, functions, loops, conditional statements, file handling, and basic game development concepts in C Programming.
+This project helped in understanding the implementation of a simple game using C programming language. It also improved knowledge of functions, structures, arrays, loops, and file handling.
